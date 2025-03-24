@@ -183,4 +183,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a first-year PhD student in Biomedical and Health Informatics at Case Western Reserve University, Department of Population and Quantitative Health Sciences. Before that, I did my Master’s degree in Biomedical Engineering at Johns Hopkins University and my Bachelor’s degree in Biological Science at Zhejiang University.
+
+My research interests focus on the development of multi-omics analysis tools, and their applications in the real world. This includes developing user-friendly tools to simplify bioinformatics analysis, utilizing statistical methods to model high-throughput omics data, and identifing differential epigenetics biomarkers. My primary approaches involve software development, bioinformatics analysis, and machine learning.
+
+If you’re interested in my research or potential collaborations, feel free to drop me an e-mail!
