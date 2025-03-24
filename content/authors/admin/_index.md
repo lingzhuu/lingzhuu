@@ -38,9 +38,9 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/lingzhuu/
+    url: https://github.com/lingzhuu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/lingzhushen/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
