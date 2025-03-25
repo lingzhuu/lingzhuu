@@ -47,37 +47,37 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multi-omics analysis
+  - Machine learning
+  - Bioinformatics software development
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Biomedical and Health Informatics
+    institution: Case Western Reserve University
+    date_start: 2024-08-31
+    date_end: 2029-05-01(expected)
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSE Biomedical Engineering
+    institution: Johns Hopkins University
+    date_start: 2021-08-31
+    date_end: 2023-05-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.54/4.0
 
       Courses included:
+      - Biomedical Data Science
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BS Biological Science
+    institution: Zhejiang University
+    date_start: 2017-09-01
+    date_end: 2021-06-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.50/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -185,6 +185,6 @@ awards:
 
 I’m a first-year PhD student in Biomedical and Health Informatics at Case Western Reserve University, Department of Population and Quantitative Health Sciences. Before that, I did my Master’s degree in Biomedical Engineering at Johns Hopkins University and my Bachelor’s degree in Biological Science at Zhejiang University.
 
-My research interests focus on the development of multi-omics analysis tools, and their applications in the real world. This includes developing user-friendly tools to simplify bioinformatics analysis, utilizing statistical methods to model high-throughput omics data, and identifing differential epigenetics biomarkers. My primary approaches involve software development, bioinformatics analysis, and machine learning.
+My research interests focus on the development of multi-omics analysis tools, and their applications in the real world. This includes developing user-friendly tools to simplify bioinformatics analysis, utilizing statistical methods to model high-throughput omics data. My primary approaches involve software development, bioinformatics analysis, and machine learning.
 
 If you’re interested in my research or potential collaborations, feel free to drop me an e-mail!
